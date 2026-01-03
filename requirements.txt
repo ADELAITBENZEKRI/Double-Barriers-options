@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+numpy>=1.21.0
+pandas>=1.4.0
+plotly>=5.10.0
+scipy>=1.8.0
+mpmath>=1.2.0
+sympy>=1.9
+pyngrok>=6.0.0
